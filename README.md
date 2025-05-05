@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hello  
+I’m **Maksim Pyanin**, a Python backend engineer crafting high-performance APIs and AI/LLM-powered microservices.  
+For years, I’ve been honing scalable architectures in Python for speed and reliability.  
+I maintain several open-source projects, complete with docs and examples, and always welcome contributions.  
+Check out my work!
 
-<!--
-**MaximPyanin/MaximPyanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,aws,redis,postgresql,rabbitmq,mongodb,linux" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
